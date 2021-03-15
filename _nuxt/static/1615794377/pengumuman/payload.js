@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pengumuman", {data:[{}],fetch:[],mutations:[]});

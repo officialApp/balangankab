@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/menu/test", {data:[{}],fetch:[],mutations:[]});

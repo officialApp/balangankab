@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/skpd/kategori", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/laporan/test", {data:[{}],fetch:[],mutations:[]});

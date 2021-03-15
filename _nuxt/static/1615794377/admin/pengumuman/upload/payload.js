@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/pengumuman/upload", {data:[{}],fetch:[],mutations:[]});
